@@ -1,4 +1,4 @@
-# news_bias_prediction
+# Predicting Political Ideologies In News Articles
 The project revolves around predicting the bias in news headlines and articles. For this project, we use the "Neural Media Bias Detection using distant supervision with BABE" dataset. propose BABE (Bias Annotations By Experts), a dataset of media bias annotations built on top of the MBIC dataset(Spinde et al.,2021c). MBIC offers a balanced content selection,annotations on a word and sentence level, and with 1,700 annotated sentences one of the largest datasets available in the domain. BABE improves MBIC, another dataset, in two aspects. First, annotations are performed by trained experts and in a larger number. Second, the corpus size is expanded considerably with an additional 2,000 sentences. The resulting labels are of higher quality and capture media bias better than labels gathered via crowd-sourcing. In sum, BABE consists of 3,700 sentences with gold-standard expert annotations on the word and sentence level.
 
 ### Media/News Bias Detection using Machine Learning
